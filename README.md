@@ -57,7 +57,7 @@ Which milk do you prefer? Give me the number in the list
 ............NEED TO CONTINUE THE ARGUMENTATION PART......................
 
 
-An issue that might occur (IF you do NOT want to use the Ui), the jar file are the ones that are sending SPARQL queries to the Ontology. The reason we use Java although all the framework is built with Python is because Python libraries could not parse the ontology quickly enough. Therefore, in order for the jar file to be functional, one may need to take the java code (inside the zip files), change the path to the .ttl file, create a jar. After that you are ready to go :). Similaer changes of paths are needed inside the code, for local use.
+An issue that might occur (IF you do NOT want to use the Ui), the jar file are the ones that are sending SPARQL queries to the Ontology. The reason we use Java although all the framework is built with Python is because Python libraries could not parse the ontology quickly enough. Therefore, in order for the jar file to be functional, one may need to take the java code (inside the zip files), change the path to the .ttl file, create a jar. After that you are ready to go :). Similar changes of paths are needed inside the code, for local use.
 
 We need to apologize for the last part, but unfortunately python does not have an rdf parser for large files that has good time performance. Thus, we used java only for this part.
 
