@@ -2,7 +2,7 @@
 The framework for the Semantic Web Journal, with link for the UI.
 
 You can access the web UI here: http://155.207.113.40:8888/
-But you need the token: efc94b458e6bdd7b13499b1802e10e8e3da90f2048d5ea34
+But you need the token: 7dbfa0e872a539fb652d41c6276f65316d7c97ddecb717bd
 After you have given the credential you are one step away, open the "HomeOntology and Argumentation.ipynb" file, and run it. After that enjoy :)
 
 
