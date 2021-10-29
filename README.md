@@ -6,7 +6,7 @@ But you need the token: 1c2d18d84360cf85351854fe2e1168809b24f7076ee42f6c
 
 !!Note the token will change once a week for security reasons!! 
 
-
+#The server will be down for maintanance from 29/10/2021 21:30 (UTC+3) till 30/10/2021 10:00 (UTC+3). We apologize to any incovinience that this may cause.
 
 After you have given the credential you are one step away, open the "HomeOntology and Argumentation.ipynb" file, and run it. After that enjoy :)
 
