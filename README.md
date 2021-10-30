@@ -2,11 +2,9 @@
 The framework for the Semantic Web Journal, with link for the UI.
 
 You can access the web UI here: http://155.207.113.40:8888/
-But you need the token: 1c2d18d84360cf85351854fe2e1168809b24f7076ee42f6c
+But you need the token: 376c324d09412d5b3361714a9753d4e675fab098d77ea5c2
 
 !!Note the token will change once a week for security reasons!! 
-
-# The server will be down for maintanance from 29/10/2021 21:30 (UTC+3) till 30/10/2021 10:00 (UTC+3). We apologize to any incovinience that this may cause.
 
 After you have given the credential you are one step away, open the "HomeOntology and Argumentation.ipynb" file, and run it. After that enjoy :)
 
