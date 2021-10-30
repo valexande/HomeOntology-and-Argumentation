@@ -2,7 +2,7 @@
 The framework for the Semantic Web Journal, with link for the UI.
 
 You can access the web UI here: http://155.207.113.40:8888/
-But you need the token: 376c324d09412d5b3361714a9753d4e675fab098d77ea5c2
+But you need the token: dc2a630acc7e1f6e83ab846fe5184f75fd495c227a19dd44
 
 !!Note the token will change once a week for security reasons!! 
 
