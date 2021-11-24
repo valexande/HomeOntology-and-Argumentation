@@ -5,7 +5,7 @@ You can access the web UI here: http://155.207.113.40:8888/
 
 and you will need the token: c232177cb51a65bf1260edb510af41dc33f4acacd95926bf
 
-Title: An Open-Ended Web Knowledge Retrieval Framework with Explanation and Learning through Argumentation
+Title: An Open-Ended Web Knowledge Retrieval Framework for the Household Domain with Explanation and Learning through Argumentation
 
 Authors: Alexandros Vassiliades, Nick Bassiliades, and Theodore Patkos
 
