@@ -3,7 +3,7 @@ The framework for the Semantic Web Journal, with link for the UI.
 
 You can access the web UI here: http://155.207.113.40:8888/
 
-and you will need the token: c232177cb51a65bf1260edb510af41dc33f4acacd95926bf
+and you will need the token: 9920e81c60a56efd0072be0cfe44384a8b53039b1bf9c419
 
 Title: An Open-Ended Web Knowledge Retrieval Framework for the Household Domain with Explanation and Learning through Argumentation
 
