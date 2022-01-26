@@ -1,10 +1,9 @@
 # HomeOntology-and-Argumentation
 The framework for the Semantic Web Journal, with link for the UI.
 
-You can access the web UI here: http://155.207.113.40:8888/
+You can access the web UI here: http://155.207.113.42:8888/
 
-# Due to security reasons, we kindly ask to shoot a mail at valexande@csd.auth.gr, for us to provide a token.
-# We apologize for any inconvenience this may cause. :) 
+token: ed7fb941ece54e85ad84d874343549729965deff407aa876
 
 Title: An Open-Ended Web Knowledge Retrieval Framework for the Household Domain with Explanation and Learning through Argumentation
 
