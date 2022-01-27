@@ -3,7 +3,7 @@ The framework for the Semantic Web Journal, with link for the UI.
 
 You can access the web UI here: http://155.207.131.42:8888/ or http://argumentation.csd.auth.gr:8888/
 
-token: ed7fb941ece54e85ad84d874343549729965deff407aa876
+token: e821ef52c1773f00720f78d61ae7da538853ffc455155c4e
 
 Title: An Open-Ended Web Knowledge Retrieval Framework for the Household Domain with Explanation and Learning through Argumentation
 
