@@ -3,9 +3,7 @@ The framework for the Semantic Web Journal, with link for the UI.
 
 You can access the web UI here: http://155.207.131.42:8888/ or http://argumentation.csd.auth.gr:8888/
 
-token: 3314ac3ebce204d1c6efa46eab39a509a5cc02356f8e4096
-
-Title: An Open-Ended Web Knowledge Retrieval Framework for the Household Domain with Explanation and Learning through Argumentation
+# Please send an email at valexande@csd.auth.gr for the token.
 
 Authors: Alexandros Vassiliades, Nick Bassiliades, and Theodore Patkos
 
